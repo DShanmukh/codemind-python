@@ -1,7 +1,6 @@
 a=int(input())
 t=a//10
-if(t<a):
+if(t>a):
     print(t)
 else:
-   
     print(t)
