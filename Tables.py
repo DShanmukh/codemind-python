@@ -1,0 +1,5 @@
+t,n=map(int,input().split())
+for i in range(1,n+1):
+    if(i%2!=0):
+        a=t*i
+        print(t,"x",i,"=",a)
